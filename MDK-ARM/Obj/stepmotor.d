@@ -1,0 +1,16 @@
+.\obj\stepmotor.o: ..\Src\StepMotor.c
+.\obj\stepmotor.o: ..\..\Huins_NXP_LPC1768_Library\Drivers\include\LPC1768_utility.h
+.\obj\stepmotor.o: ..\..\Huins_NXP_LPC1768_Library\Drivers\include\lpc17xx_gpio.h
+.\obj\stepmotor.o: C:\Keil_v5\ARM\INC\NXP\LPC17xx\LPC17xx.h
+.\obj\stepmotor.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm3.h
+.\obj\stepmotor.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\stepmotor.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\obj\stepmotor.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\obj\stepmotor.o: C:\Keil_v5\ARM\INC\NXP\LPC17xx\system_LPC17xx.h
+.\obj\stepmotor.o: ..\..\Huins_NXP_LPC1768_Library\Drivers\include\lpc_types.h
+.\obj\stepmotor.o: ..\..\Huins_NXP_LPC1768_Library\Drivers\include\LPC1768_Huins.h
+.\obj\stepmotor.o: ..\..\Huins_NXP_LPC1768_Library\Drivers\include\lpc17xx_pinsel.h
+.\obj\stepmotor.o: ..\..\Huins_NXP_LPC1768_Library\Drivers\include\lpc17xx_exti.h
+.\obj\stepmotor.o: ..\..\Huins_NXP_LPC1768_Library\Drivers\include\lpc17xx_uart.h
+.\obj\stepmotor.o: ..\..\Huins_NXP_LPC1768_Library\Drivers\include\LPC1768_Huins.h
+.\obj\stepmotor.o: ..\..\Huins_NXP_LPC1768_Library\Drivers\include\lpc17xx_adc.h

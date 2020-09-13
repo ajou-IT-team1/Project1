@@ -1,0 +1,16 @@
+--cpu Cortex-M3
+".\obj\system_lpc17xx.o"
+".\obj\startup_lpc17xx.o"
+".\obj\lpc17xx_gpio.o"
+".\obj\lpc17xx_pinsel.o"
+".\obj\lpc1768_utility.o"
+".\obj\lpc17xx_timer.o"
+".\obj\lpc17xx_clkpwr.o"
+".\obj\lpc17xx_libcfg_default.o"
+".\obj\lpc17xx_exti.o"
+".\obj\lpc17xx_adc.o"
+".\obj\a_project_1.o"
+--strict --scatter ".\Obj\FND.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Lst\FND.map" -o .\Obj\FND.axf
